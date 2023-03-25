@@ -1,3 +1,3 @@
-# jet-game.py
+# jet-game
 Simran
 Neha
