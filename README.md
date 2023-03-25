@@ -50,15 +50,15 @@ cs_questions = ['What is the decimal number for 1100?', 'What is the decimal num
 
   cs_answerOptions_5 = ['E9C7','E1C7','E1D6','E1C5']
 
-    cs_answer_1 = [''] 
+    cs_answer_1 = ['12'] 
 
-    cs_answer_2 = [''] 
+    cs_answer_2 = ['223'] 
 
-    cs_answer_3 = [''] 
+    cs_answer_3 = ['1101 1110 1111'] 
 
-    cs_answer_4 = ['']  
+    cs_answer_4 = ['1010 0001 1100 1111']  
 
-    cs_answer_5 = [''] 
+    cs_answer_5 = ['E1C5'] 
 
       cs_explanation_1 = ['']
 
