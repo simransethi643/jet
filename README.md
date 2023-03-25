@@ -1,5 +1,11 @@
+<!DOCTYPE html>
+<h1>Jet game</h1>
 <table>
     <tr>
+        <style>
+            th
+            {color: blue }
+        </style>
       <th>Subject</th>
       <th>Environmental</th>
       <th>Computer Science</th>
