@@ -1,2 +1,2 @@
-# jeopardy-game.py
+# jet-game.py
 Simran
