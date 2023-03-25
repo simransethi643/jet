@@ -9,7 +9,7 @@
     </style>
     </head>
 <table>
-    <table style="width:100%">
+    <table style="width:75%">
         <tr>
         <style>
             th
