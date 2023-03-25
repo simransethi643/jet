@@ -48,7 +48,7 @@ cs_questions = ['What is the decimal number for 1100?', 'What is the decimal num
 
   cs_answerOptions_4 = ['0101 0100 0111 1001','1010 0001 1100 1111','0001 0010 0100 0011','1000 1100 1001 1110']
 
-  cs_answerOptions_5 = ['option1','option2','option3','option4']
+  cs_answerOptions_5 = ['E9C7','E1C7','E1D6','E1C5']
 
     cs_answer_1 = [''] 
 
