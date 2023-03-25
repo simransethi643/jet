@@ -1,3 +1,3 @@
-# jet-game
+# jet-game website
 Simran
 Neha
