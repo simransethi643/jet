@@ -60,16 +60,6 @@ cs_questions = ['What is the decimal number for 1100?', 'What is the decimal num
 
     cs_answer_5 = ['E1C5'] 
 
-      cs_explanation_1 = ['']
-
-      cs_explanation_2 = ['']
-
-      cs_explanation_3 = ['']
-
-      cs_explanation_4 = ['']
-
-      cs_explanation_5 = ['']
-
 cyber_questions = ['What are two types of network layer firewalls?', 'Which of the following attacks requires a carrier file to self-replicate?','Which of the following uses asymmetric key encryption?', 'Which of the following offers the strongest wireless signal encryption', 'Which of the following descrives asymmetric key encryption?']
 
   cyber_answerOptions_1 = ['Stateful and Stateless','Dynamic and Static','Anomaly and Signature','Mandatory and discretionary']
