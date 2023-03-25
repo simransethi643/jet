@@ -38,15 +38,15 @@ env_questions = ['Name the drug associated with the plant source tea or coffee.'
 
       env_ansExplanations_5 = ['The traditional medicines are inexpensive and easily available.']
 
-cs_questions = ['Question 1', 'Question 2','Question 3', 'Question 4', 'Question 5']
+cs_questions = ['What is the decimal number for 1100?', 'What is the decimal number for 1101 1111?','What is the binary number for 3567?', 'What is the binary number for 41423?', 'What is the hex number for 1110 0001 1100 0101?']
 
-  cs_answerOptions_1 = ['option1','option2','option3','option4']
+  cs_answerOptions_1 = ['3','18','12','8']
 
-  cs_answerOptions_2 = ['option1','option2','option3','option4']
+  cs_answerOptions_2 = ['136','223','220','221']
 
-  cs_answerOptions_3 = ['option1','option2','option3','option4']
+  cs_answerOptions_3 = ['1101 1110 1111','1111 1011 1000','1011 1101 0001','1010 1001 1100']
 
-  cs_answerOptions_4 = ['option1','option2','option3','option4']
+  cs_answerOptions_4 = ['0101 0100 0111 1001','1010 0001 1100 1111','0001 0010 0100 0011','1000 1100 1001 1110']
 
   cs_answerOptions_5 = ['option1','option2','option3','option4']
 
