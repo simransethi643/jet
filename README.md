@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <h1>Jet game</h1>
+<head>
+    <style>
+    table, th, td {
+      border: 2px solid black;
+      border-collapse: collapse;
+    }
+    </style>
+    </head>
 <table>
+    <title>Center align button</title>  
     <tr>
         <style>
             th
