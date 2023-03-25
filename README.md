@@ -9,8 +9,8 @@
     </style>
     </head>
 <table>
-    <title>Center align button</title>  
-    <tr>
+    <table style="width:100%">
+        <tr>
         <style>
             th
             {color: blue }
