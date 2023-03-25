@@ -24,42 +24,42 @@
     </tr>
     <tr>
       <td> </td>
-      <td><button type="button" onclick=page>100</button></td>
-      <td><button type="button" onclick=page>100</button></td>
-      <td><button type="button" onclick=page>100</button></td>
-      <td><button type="button" onclick=page>100</button></td>
-      <td><button type="button" onclick=page>100</button></td>
+      <td align="center"><button type="button" onclick=page>100</button></td>
+      <td align="center"><button type="button" onclick=page>100</button></td>
+      <td align="center"><button type="button" onclick=page>100</button></td>
+      <td align="center"><button type="button" onclick=page>100</button></td>
+      <td align="center"><button type="button" onclick=page>100</button></td>
     </tr>
     <tr>
         <td> </td>
-        <td><button type="button" onclick=page>200</button></td>
-        <td><button type="button" onclick=page>200</button></td>
-        <td><button type="button" onclick=page>200</button></td>
-        <td><button type="button" onclick=page>200</button></td>
-        <td><button type="button" onclick=page>200</button></td>
+        <td align="center"><button type="button" onclick=page>200</button></td>
+        <td align="center"><button type="button" onclick=page>200</button></td>
+        <td align="center"><button type="button" onclick=page>200</button></td>
+        <td align="center"><button type="button" onclick=page>200</button></td>
+        <td align="center"><button type="button" onclick=page>200</button></td>
       </tr>
       <tr>
         <td> </td>
-        <td><button type="button" onclick=page>300</button></td>
-        <td><button type="button" onclick=page>300</button></td>
-        <td><button type="button" onclick=page>300</button></td>
-        <td><button type="button" onclick=page>300</button></td>
-        <td><button type="button" onclick=page>300</button></td>
+        <td align="center"><button type="button" onclick=page>300</button></td>
+        <td align="center"><button type="button" onclick=page>300</button></td>
+        <td align="center"><button type="button" onclick=page>300</button></td>
+        <td align="center"><button type="button" onclick=page>300</button></td>
+        <td align="center"><button type="button" onclick=page>300</button></td>
       </tr>
       <tr>
         <td> </td>
-        <td><button type="button" onclick=page>400</button></td>
-        <td><button type="button" onclick=page>400</button></td>
-        <td><button type="button" onclick=page>400</button></td>
-        <td><button type="button" onclick=page>400</button></td>
-        <td><button type="button" onclick=page>400</button></td>
+        <td align="center"><button type="button" onclick=page>400</button></td>
+        <td align="center"><button type="button" onclick=page>400</button></td>
+        <td align="center"><button type="button" onclick=page>400</button></td>
+        <td align="center"><button type="button" onclick=page>400</button></td>
+        <td align="center"><button type="button" onclick=page>400</button></td>
       </tr>
       <tr>
         <td> </td>
-        <td><button type="button" onclick=page>500</button></td>
-        <td><button type="button" onclick=page>500</button></td>
-        <td><button type="button" onclick=page>500</button></td>
-        <td><button type="button" onclick=page>500</button></td>
-        <td><button type="button" onclick=page>500</button></td>
+        <td align="center"><button type="button" onclick=page>500</button></td>
+        <td align="center"><button type="button" onclick=page>500</button></td>
+        <td align="center"><button type="button" onclick=page>500</button></td>
+        <td align="center"><button type="button" onclick=page>500</button></td>
+        <td align="center"><button type="button" onclick=page>500</button></td>
       </tr>
   </table>
