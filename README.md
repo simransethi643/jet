@@ -18,15 +18,15 @@ env_questions = ['Name the drug associated with the plant source tea or coffee.'
 
   env_answerOptions_5 = ['Cooperative and Alternative Medicine','Complementary and Associative Medicine','Cooperative and Associative Medicine','Complementary and Alternative Medicine']
 
-    env_answer_1 = ['']
+    env_answer_1 = ['Caffeine']
 
     env_answer_2 = ['']
 
-    env_answer_3 = ['']
+    env_answer_3 = ['Stratosphere']
 
-    env_answer_4 = ['']
+    env_answer_4 = ['Both (A) abnd (C)']
 
-    env_answer_5 = ['']
+    env_answer_5 = ['Complementary and Alternative Medicine']
 
       env_ansExplanations_1 = ['The tea or coffee contains the drug caffeine that has carious benefits, such as improved brain functioning, memory, and etc.']
 
@@ -92,37 +92,37 @@ cyber_questions = ['What are two types of network layer firewalls?', 'Which of t
 
     cyber_answer_5 = ['Consists of a private signing key and a public verification key.']
 
-mechENG_questions = ['What is the Iron - Carbon phase diagram?', '','', '', '']
+mechENG_questions = ['What is the melting point of iron (in Celcius), 'Which of the following material has the carbon varying from 2.1 to 4.3%?','What is the Iron - Carbon phase diagram?', 'The invariant reaction involving a liquid phase decomposing into two different solids on cooling is known as__, 'Wrought iron is a product of__']
 
-  mechENG_answerOptions_1 = ['','','','']
+  mechENG_answerOptions_1 = ['1535','1410','910','768']
 
-  mechENG_answerOptions_2 = ['','','','']
+  mechENG_answerOptions_2 = ['Mild steel','Dead steel','Cast iron','Medium carbon steel']
   
-  mechENG_answerOptions_3 = ['','','','']
+  mechENG_answerOptions_3 = ['Unary phase diagram','Binary phase diagram','Tertiary phase diagram','Ternary phase diagram']
 
-  mechENG_answerOptions_4 = ['','','','']
+  mechENG_answerOptions_4 = ['Eutectic point','Eutectoid point','Peritectoid point','Peritectic point']
 
-  mechENG_answerOptions_5 = ['','','','']]
+  mechENG_answerOptions_5 = ['Bessemer converter','Cupola','Pudding furnace','Blast furnace']
 
-    mechENG_answer_1 = ['Unary phase diagram','Binary phase diagram','Tertiary phase diagram','Ternary phase diagram']
+    mechENG_answer_1 = ['1535']
 
-    mechENG_answer_2 = ['']
+    mechENG_answer_2 = ['Cast iron']
 
-    mechENG_answer_3 = ['']
+    mechENG_answer_3 = ['Binary phase diagram']
 
-    mechENG_answer_4 = ['']
+    mechENG_answer_4 = ['Eutectic point']
 
-    mechENG_answer_5 = ['']
+    mechENG_answer_5 = ['Pudding furnace']
 
-      mechENG_explanation_1 = ['']
+      
 
-      mechENG_explanation_2 = ['']
+      mechENG_explanation_2 = ['Cast irons are the alloy of iron and carbon that contains 2.1 to 4.3% C, along with other varying amounts of silicon and manganese. This varying carbon range makes them easily castable, asking them to call cast irons.']
 
-      mechENG_explanation_3 = ['']
+      mechENG_explanation_3 = ['Binary phase diagrams are based on two-component systems. Here, the two components may be mixed in an infinite number of different proportions, which indicates that composition also becomes a variable, along with pressure and temperature. The iron-carbon phase diagram, Pb-Sn diagram are the best examples of this category.']
 
-      mechENG_explanation_4 = ['']
+      mechENG_explanation_4 = ['The eutectic invariant reaction, in general, can be represented as: L---> S1+S2,  L represents the liquid of eutectic composition, and S1 and S2 are two different solids of fixed composition each.']
 
-      mechENG_explanation_5 = ['']
+      mechENG_explanation_5 = ['The pudding furnace creates wrought iron (nearly pure iron) from the pig iron. The wrought iron is tougher malleable']
 
 ai_questions = ['Question 1', 'Question 2','Question 3', 'Question 4', 'Question 5']
 
