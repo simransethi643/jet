@@ -38,7 +38,7 @@ env_questions = ['Name the drug associated with the plant source tea or coffee.'
 
       env_ansExplanations_5 = ['The traditional medicines are inexpensive and easily available.']
 
-cs_questions = ['What is the decimal number for 1100?', 'What is the decimal number for 1101 1111?','The name of the programming language that is named after the world’s first programmer is?', 'The analytical engine was designed by who?', 'What is the hex number for 1110 0001 1100 0101?']
+cs_questions = ['What is the decimal number for 1100?', 'What is the decimal number for 1101 1111?','The name of the programming language that is named after the world’s first programmer is?', 'The brain of the computer is referred to as?', 'The analytical engine was designed by who?']
 
   cs_answerOptions_1 = ['3','18','12','8']
 
@@ -46,9 +46,9 @@ cs_questions = ['What is the decimal number for 1100?', 'What is the decimal num
 
   cs_answerOptions_3 = ['Ada','Swift','Python','Java']
 
-  cs_answerOptions_4 = ['Ada Lovelace','Charles Babbage','Tim Berners-Lee','Larry Page']
+  cs_answerOptions_4 = ['RAM','GPU','Motherboard','CPU']
 
-  cs_answerOptions_5 = ['E9C7','E1C7','E1D6','E1C5']
+  cs_answerOptions_5 = ['Ada Lovelace','Charles Babbage','Tim Berners-Lee','Larry Page']
 
     cs_answer_1 = ['12'] 
 
@@ -56,9 +56,9 @@ cs_questions = ['What is the decimal number for 1100?', 'What is the decimal num
 
     cs_answer_3 = ['Ada'] 
 
-    cs_answer_4 = ['Charles Babbage']  
+    cs_answer_4 = ['CPU']
 
-    cs_answer_5 = ['E1C5'] 
+    cs_answer_5 = ['Charles Babbage']
     
     cs_explanations_1 = ['In order to calculate the decimal number for 1100, you need to list the power of two from right to left below each digit of the binary number. In this case, below the 0 in the one's place, you would write 2^0 which equals 1. In the tens place, write 2^1 which equals 2. In the hundreds place, write 2^2 which equals 4. In the thousands place, write 2^3 which equals 8. Multiply each power of two by the digit that it is under. In this case, 1*0 = 0, 2*0 = 0, 4*1 = 4, 8*1 = 8. Then add all the resulting values which means 0 + 0 + 4 + 8 = 12. The decimal number for 1100 equals 12.']
     
