@@ -172,7 +172,7 @@ ai_correct_answers = [ai_answer_1,ai_answer_2,ai_answer_3,ai_answer_4,ai_answer_
 ai_explanation_1= 'John McCarthy was an American Computer Scientist and cognitive scientist.\
 He was one of the funders of the discipline of artificial intelligence.He co-authored the document\
 that coined the term "artificial intelligence: (AI), developed the programming language family \
-LISP, significantly influence the design of the language ALGOL, popularized time -  sharing, and invented garbage collection.'
+LISP, significantly influence the design of the language ALGOL, popularized time - sharing, and invented garbage collection.'
 ai_explanation_2 = "Blind Search doesn't contain any domain information such as closeness and hence it is best used for a Small Search Space."
 ai_explanation_3 = 'AI is classified into three categories processes: Sensing, Reasoning, and Acting'
 ai_explanation_4 = "While programming can be done in any language, in today's world Python\
