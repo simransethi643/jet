@@ -6,7 +6,7 @@ Created on Mar 25, 2023
 print('Welcome to Educational Jeopardy! You can select questions from 5 different categories!\nWrite \
 EN for the Environmental Questions, CS for the Computer Science Questions, CY for the Cybersecurity Questions\n\
 ME for the Mechanical Engineer Questions, and AI for the Artificial Intelligence Questions\n')
-print('There are 5 questions in each category worth 100,200,300,400 and 500 points')
+print('There will be 5 questions in every category, each being worth 100,200,300,400 or 500 points')
 
 '''
 This are our global variables.
@@ -35,9 +35,9 @@ This is our DATAbase of questions, answers, and explanations
 categories = ['EN','CS','CY','ME','AI']
 questions_value = [100,200,300,400,500]
 
-env_questions = ['What common drug is found in coffee and tea?', 'Define what is the concept of Environmental Science?','Which layer of the atmosphere contains the ozone that is responsible for the absorption of UV\
-(Ultra - Violet) light?', 'What is Hepatitis A', 'what do we the adaptation of traditional medicine in industrialized countries\
-is termed as CAM, which stands for what']
+env_questions = ['What common drug is often found in coffee and tea?', 'Define what is the concept of Environmental Science?','Which layer of the atmosphere contains the ozone that is responsible for the absorption of UV\
+(Ultra - Violet) light?', 'What is Hepatitis A', 'The adaptation of traditional medicine in industrialized countries\
+is termed as CAM, What does the acronym stand for?']
 
 env_answerOptions_1 = ['Opium Poppu','Thorn Apple','Caffeine','Camphor']
 env_answerOptions_2 = ['Design, study, and discovery of new materials','The study of humanities, social, biological and physical science','Incorporate\
