@@ -97,7 +97,7 @@ of two by the digit that it is under. In this case, 1*1 = 1, 2*1 = 2, 4*1 = 4, 8
 Then add all the resulting values which means 1 + 2 + 4 + 8 +16 + 0 + 64 + 128 = 223. The decimal number for 1101 1111 equals 223."
 cs_explanations_3 = "Ada Lovelace was the world's first computer programmer."
 cs_explanations_4 = 'The CPU, the central processing unit, is considered the brain of the computer because it processes and carries out information and instructions.'
-cs_explanations_5 = 'Charles Babbage, computer pioneer, designed two class of engine, Difference Engines, and Analytical Engines.'
+cs_explanations_5 = 'The analytical engine (computer) was first invented by Charles Babbage in the early 1800s.'
 cs_all_explanations = [cs_explanations_1,cs_explanations_2,cs_explanations_3,cs_explanations_4,cs_explanations_5]
 
 cyber_questions = ['From the selection which one of these duo is a network layer in firewall?', 'Which of the following attacks requires a carrier file to \
