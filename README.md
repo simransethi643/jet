@@ -104,7 +104,7 @@ mechENG_questions = ['What is the melting point of iron (in Celcius), 'Which of 
 
     mechENG_answer_5 = ['Pudding furnace']
 
-      
+      mechENG_explanations_1 = ['Iron is widely used in construction especially the manufacturing of steel. It is widely used in the human body where it is importan in oxygen transport in hemoglobin. It is located in Group 8 and it has a melting point of 1538 degree celcius and a boiling point of 2862 degree celcius bein a solid metal at room temperature.']
 
       mechENG_explanation_2 = ['Cast irons are the alloy of iron and carbon that contains 2.1 to 4.3% C, along with other varying amounts of silicon and manganese. This varying carbon range makes them easily castable, asking them to call cast irons.']
 
@@ -114,37 +114,37 @@ mechENG_questions = ['What is the melting point of iron (in Celcius), 'Which of 
 
       mechENG_explanation_5 = ['The pudding furnace creates wrought iron (nearly pure iron) from the pig iron. The wrought iron is tougher malleable']
 
-ai_questions = ['The "Father of Artificial Intelligence" is?', 'Blind search can be used for which of the following situations?','In how many category processes is Artificial Intelligence classified in?', '', '']
+ai_questions = ['The "Father of Artificial Intelligence" is?', 'Blind search can be used for which of the following situations?','In how many category processes is Artificial Intelligence classified in?', 'Which of the following is the common language for Artificial Intelligence?', 'The name of the Artificial Intelligence system developed by Daniel Bobrow was?']
 
   ai_answerOptions_1 = ['Alan Turning','Charles Babbage','John McCarthy','None of the above']
 
   ai_answerOptions_2 = ['Real - Life Simulation','Small Search Space','Advance Game Theory','None of the above']
 
-  ai_answerOptions_3 = ['','','','']
+  ai_answerOptions_3 = ['Depends on the input nature','5','2','3']
 
-  ai_answerOptions_4 = ['','','','']
+  ai_answerOptions_4 = ['Python','Java','Lisp','PHP']
 
-  ai_answerOptions_5 = ['','','','']
+  ai_answerOptions_5 = ['BACON','SIMD','STUDENT','None of the above']
 
     ai_answer_1 = ['John McCarthy']
 
     ai_answer_2 = ['Small Search Space']
 
-    ai_answer_3 = ['']
+    ai_answer_3 = ['3']
 
-    ai_answer_4 = ['']
+    ai_answer_4 = ['Python']
 
-    ai_answer_5 = ['']
+    ai_answer_5 = ['STUDENT']
     
-      ai_explanation_1=
+      ai_explanation_1= ['John McCarthy was an American Computer Scientist and cognitive scientist. He was one of the funders of gthe discipline of artificial intelligence.He co-authored the document that coined the term "artificial intelligence: (AI), developed the programming language family LISP, significantly influence the design of the language ALGOL, popularized time -  sharing, and invented garbage collection.']
       
-      ai_explanation_2 =
+      ai_explanation_2 = ['Blind Search doesn't contain any domain information such as closeness and hence it is best used for a Small Search Space.']
       
-      ai_explanation_3 =
+      ai_explanation_3 = ['AI is classified into three categories porcesses: Sensing, Reasoning, and Acting']
       
-      ai_explanation_4 =
+      ai_explanation_4 = ['Whiile programming can be done in any language, in today's world Python has become the go-to language for AI and ML-related tasks due to its vast and diverse library functionalities.']
       
-      ai_explanation_5 =
+      ai_explanation_5 = ['The name of the Artificial Intelligence system developed by Daniel Bobrow was STUDENT developed in the Lisp Language in 1964.']
       
       
 
