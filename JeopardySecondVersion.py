@@ -35,12 +35,12 @@ This is our DATAbase of questions, answers, and explanations
 categories = ['EN','CS','CY','ME','AI']
 questions_value = [100,200,300,400,500]
 
-env_questions = ['What common drug is often found in coffee and tea?', 'Define what is the concept of Environmental Science?','Which layer of the atmosphere contains the ozone that is responsible for the absorption of UV\
-(Ultra - Violet) light?', 'What is Hepatitis A', 'The adaptation of traditional medicine in industrialized countries\
-is termed as CAM, What does the acronym stand for?']
+env_questions = ['What common drug is often found in coffee and tea?', 'What is the concept of Environmental Science?','Which layer of the atmosphere contains the ozone that is responsible for the absorption of UV\
+(Ultra - Violet) light?', 'What is Hepatitis A?', 'The adaptation of traditional medicine in industrialized countries\
+is termed as CAM, what does that acronym stand for?']
 
 env_answerOptions_1 = ['Opium Poppu','Thorn Apple','Caffeine','Camphor']
-env_answerOptions_2 = ['Design, study, and discovery of new materials','The study of humanities, social, biological and physical science','Incorporate\
+env_answerOptions_2 = ['Design, study, and discovery of new materials','The study of humanities, social science, biological science, and physical science','Incorporate\
 the information and physical science','Approach about the natural world and the impact']
 env_answerOptions_3 = ['Stratosphere','Throposphere','Mesosphere','None of these']
 env_answerOptions_4 = ['Water - borne disease','Air - borne disease','Food Contamination','Both (A) and (C)']
@@ -59,7 +59,7 @@ env_correct_answers = [env_answer_1,env_answer_2,env_answer_3,env_answer_4,env_a
 env_ansExplanations_1 = 'Caffeine is a drug that stimulates your brain and nervous system.'
 env_ansExplanations_2 = 'Environmental studies deals with the issues that affect the life of a living organism. \
 It can be various factors that relates to the natural world and the human impact on it.'
-env_ansExplanations_3 = 'The ozone present absorbs UV light in the stratosphere. It is the most important aspect\
+env_ansExplanations_3 = 'The ozone absorbs UV light in the stratosphere. It is the most important aspect\
 of the atmosphere that makes life possible on earth.'
 env_ansExplanations_4 = 'Hepatitis A is generally caused by food and water contamination through chemical waste urban sewage, agricultural waste,etc.'
 env_ansExplanations_5 = 'The traditional medicines are usally inexpensive and easily available.'
@@ -67,7 +67,7 @@ env_all_ansExplanations = [env_ansExplanations_1,env_ansExplanations_2,env_ansEx
 
 cs_questions =  ['What is the decimal number for 1100?', 'What is the decimal number for 1101 1111?','What is the name of the programming\
 language that is named after the world’s first \
-programmer?', 'What is the brain of the computer is being referred as?', 'Who designed the analytical engine in the 1800s?']
+programmer?', 'What is the brain of the computer referred to as?', 'Who designed the analytical engine?']
 
 cs_answerOptions_1 = ['3','18','12','8']
 cs_answerOptions_2 = ['136','223','220','221']
