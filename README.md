@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-<h1>Jet game</h1>
+<body style="background-color:rgb(248, 252, 8)">
+    <h1>Jet game</h1>
+  </body>
 <head>
     <style>
     table, th, td {
@@ -23,15 +25,15 @@
       <th>Artifical Intelligence</th>
     </tr>
     <tr>
-      <td> </td>
-      <td align ="center"><button type="button" onclick=page>100</button></td>
+      <td> Points =  </td>
+      <td align="center"><button type="button" onclick=page>100</button></td>
       <td align="center"><button type="button" onclick=page>100</button></td>
       <td align="center"><button type="button" onclick=page>100</button></td>
       <td align="center"><button type="button" onclick=page>100</button></td>
       <td align="center"><button type="button" onclick=page>100</button></td>
     </tr>
     <tr>
-        <td> </td>
+        <td> Points =  </td>
         <td align="center"><button type="button" onclick=page>200</button></td>
         <td align="center"><button type="button" onclick=page>200</button></td>
         <td align="center"><button type="button" onclick=page>200</button></td>
@@ -39,7 +41,7 @@
         <td align="center"><button type="button" onclick=page>200</button></td>
       </tr>
       <tr>
-        <td> </td>
+        <td> Points =  </td>
         <td align="center"><button type="button" onclick=page>300</button></td>
         <td align="center"><button type="button" onclick=page>300</button></td>
         <td align="center"><button type="button" onclick=page>300</button></td>
@@ -47,7 +49,7 @@
         <td align="center"><button type="button" onclick=page>300</button></td>
       </tr>
       <tr>
-        <td> </td>
+        <td> Points =  </td>
         <td align="center"><button type="button" onclick=page>400</button></td>
         <td align="center"><button type="button" onclick=page>400</button></td>
         <td align="center"><button type="button" onclick=page>400</button></td>
@@ -55,7 +57,7 @@
         <td align="center"><button type="button" onclick=page>400</button></td>
       </tr>
       <tr>
-        <td> </td>
+        <td> Points =  </td>
         <td align="center"><button type="button" onclick=page>500</button></td>
         <td align="center"><button type="button" onclick=page>500</button></td>
         <td align="center"><button type="button" onclick=page>500</button></td>
