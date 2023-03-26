@@ -38,13 +38,13 @@ env_questions = ['Name the drug associated with the plant source tea or coffee.'
 
       env_ansExplanations_5 = ['The traditional medicines are inexpensive and easily available.']
 
-cs_questions = ['What is the decimal number for 1100?', 'What is the decimal number for 1101 1111?','What is the binary number for 3567?', 'What is the binary number for 41423?', 'What is the hex number for 1110 0001 1100 0101?']
+cs_questions = ['What is the decimal number for 1100?', 'What is the decimal number for 1101 1111?','The name of the programming language that is named after the world’s first programmer is?', 'What is the binary number for 41423?', 'What is the hex number for 1110 0001 1100 0101?']
 
   cs_answerOptions_1 = ['3','18','12','8']
 
   cs_answerOptions_2 = ['136','223','220','221']
 
-  cs_answerOptions_3 = ['1101 1110 1111','1111 1011 1000','1011 1101 0001','1010 1001 1100']
+  cs_answerOptions_3 = ['Ada','Swift','Python','Java']
 
   cs_answerOptions_4 = ['0101 0100 0111 1001','1010 0001 1100 1111','0001 0010 0100 0011','1000 1100 1001 1110']
 
@@ -54,7 +54,7 @@ cs_questions = ['What is the decimal number for 1100?', 'What is the decimal num
 
     cs_answer_2 = ['223'] 
 
-    cs_answer_3 = ['1101 1110 1111'] 
+    cs_answer_3 = ['Ada'] 
 
     cs_answer_4 = ['1010 0001 1100 1111']  
 
@@ -63,6 +63,10 @@ cs_questions = ['What is the decimal number for 1100?', 'What is the decimal num
     cs_explanations_1 = ['In order to calculate the decimal number for 1100, you need to list the power of two from right to left below each digit of the binary number. In this case, below the 0 in the one's place, you would write 2^0 which equals 1. In the tens place, write 2^1 which equals 2. In the hundreds place, write 2^2 which equals 4. In the thousands place, write 2^3 which equals 8. Multiply each power of two by the digit that it is under. In this case, 1*0 = 0, 2*0 = 0, 4*1 = 4, 8*1 = 8. Then add all the resulting values which means 0 + 0 + 4 + 8 = 12. The decimal number for 1100 equals 12.']
     
     cs_explanations_2 = ['In order to calculate the decimal number for 1101 1111, you need to list the power of two from right to left below each digit of the binary number. In this case, below the 0 in the one's place, you would write 2^0 which equals 1. In the tens place, write 2^1 which equals 2. In the hundreds place, write 2^2 which equals 4. In the thousands place, write 2^3 which equals 8.  In the ten thousand place, write 2^4 which equals 16. In the hundred thousands place, write 2^5 which equals 32. In the one millionth place, write 2^6 which equals 64. In the ten millionth place, write 2^7 which equals 128. Multiply each power of two by the digit that it is under. In this case, 1*1 = 1, 2*1 = 2, 4*1 = 4, 8*1 = 8, 16*1 = 16, 32*0 = 0, 64*1 = 64, 128*1 = 128. Then add all the resulting values which means 1 + 2 + 4 + 8 +16 + 0 + 64 + 128 = 223. The decimal number for 1101 1111 equals 223.']
+    
+    cs_explanations_3 = ['Ada Lovelace was the world’s first computer programmer.']
+    
+    
 
 cyber_questions = ['What are two types of network layer firewalls?', 'Which of the following attacks requires a carrier file to self-replicate?','Which of the following uses asymmetric key encryption?', 'Which of the following offers the strongest wireless signal encryption', 'Which of the following descrives asymmetric key encryption?']
 
