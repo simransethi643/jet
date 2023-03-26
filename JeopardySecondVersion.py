@@ -62,12 +62,12 @@ It can be various factors that relates to the natural world and the human impact
 env_ansExplanations_3 = 'The ozone present absorbs UV light in the stratosphere. It is the most important aspect\
 of the atmosphere that makes life possible on earth.'
 env_ansExplanations_4 = 'Hepatitis A is generally caused by food and water contamination through chemical waste urban sewage, agricultural waste,etc.'
-env_ansExplanations_5 = 'The traditional medicines are inexpensive and easily available.'
+env_ansExplanations_5 = 'The traditional medicines are usally inexpensive and easily available.'
 env_all_ansExplanations = [env_ansExplanations_1,env_ansExplanations_2,env_ansExplanations_3,env_ansExplanations_4,env_ansExplanations_5]
 
-cs_questions =  ['What is the decimal number for 1100?', 'What is the decimal number for 1101 1111?','The name of the programming\
+cs_questions =  ['What is the decimal number for 1100?', 'What is the decimal number for 1101 1111?','What is the name of the programming\
 language that is named after the world’s first \
-programmer is?', 'The brain of the computer is referred to as?', 'The analytical engine was designed by who?']
+programmer?', 'What is the brain of the computer is being referred as?', 'Who designed the analytical engine in the 1800s?']
 
 cs_answerOptions_1 = ['3','18','12','8']
 cs_answerOptions_2 = ['136','223','220','221']
@@ -95,18 +95,18 @@ In the ten thousand place, write 2^4 which equals 16. In the hundred thousands p
 millionth place, write 2^6 which equals 64. In the ten millionth place, write 2^7 which equals 128. Multiply each power \
 of two by the digit that it is under. In this case, 1*1 = 1, 2*1 = 2, 4*1 = 4, 8*1 = 8, 16*1 = 16, 32*0 = 0, 64*1 = 64, 128*1 = 128.\
 Then add all the resulting values which means 1 + 2 + 4 + 8 +16 + 0 + 64 + 128 = 223. The decimal number for 1101 1111 equals 223."
-cs_explanations_3 = 'Ada Lovelace was the world’s first computer programmer.'
-cs_explanations_4 = 'The analytical engine (computer) was first invented by Charles Babbage in the early 1800s.'
-cs_explanations_5 = 'The analytical engine (computer) was first invented by Charles Babbage in the early 1800s.'
+cs_explanations_3 = 'Ada was named after Augusta Ada King, countess of Lovelace, who was aan assistant to the 19th-century English inventor Charles Babbage,and is sometimes called the first computer programmer.'
+cs_explanations_4 = 'ThE CPU is the brain of a computer, containing all the circuitry needed to process input, store data, and output results.'
+cs_explanations_5 = 'Charles Babbage, computer pioneer, designed two class of engine, Difference Engines, and Analytical Engines.'
 cs_all_explanations = [cs_explanations_1,cs_explanations_2,cs_explanations_3,cs_explanations_4,cs_explanations_5]
 
-cyber_questions = ['What are two types of network layer firewalls?', 'Which of the following attacks requires a carrier file to \
+cyber_questions = ['From the selection which one of these duo is a network layer in firewall?', 'Which of the following attacks requires a carrier file to \
 self-replicate?','Which of the following uses asymmetric key encryption?', 'Which of the following offers the strongest wireless\
 signal encryption', 'Which of the following describes asymmetric key encryption?']
 
 cyber_answerOptions_1 = ['Stateful and Stateless','Dynamic and Static','Anomaly and Signature','Mandatory and discretionary']
 cyber_answerOptions_2 = ['Trojan','Virus','Worm','Spam']
-cyber_answerOptions_3 = ['AES','PGP','3DES','RC5']
+cyber_answerOptions_3 = ['AES','RSA','3DES','RC5']
 cyber_answerOptions_4 = ['WEP','WAP','WIPS','WPA']
 cyber_answerOptions_5 = ['Consists of a private signing key and a public verification key','The sender and receiver must securely\
 share a key.','Cannot be used for non-repudiation purposes','Cannot be used for sender authentication']
@@ -114,12 +114,13 @@ cy_answers = [cyber_answerOptions_1, cyber_answerOptions_2, cyber_answerOptions_
 
 cyber_answer_1 = 'Stateful and Stateless'
 cyber_answer_2 = 'Virus'
-cyber_answer_3 = 'PGP'
+cyber_answer_3 = 'RSA'
 cyber_answer_4 = 'WPA'
 cyber_answer_5 = 'Consists of a private signing key and a public verification key.'
 cy_correct_answers = [cyber_answer_1, cyber_answer_2, cyber_answer_3, cyber_answer_4, cyber_answer_5]
 
-cyber_explanation_1 = 'Depends on what they are protecting.'
+cyber_explanation_1 = 'A stateless firewall does not keep data about the data streams and connection in the system. So, it evaluates each packet incoming/outgoing the system as a particular and independent element.\
+A stateful firewall, however, keeps the information about streams and connections, employing it to evaluate each packet.'
 cyber_explanation_2 = "A virus requires a carrier file to spread across a network and replicates by inserting copies into other files. A trojan is defined as an attack that doesn't self - replicate."
 cyber_explanation_3 = 'RSA is an algorithm used by modern computers to encrypt and decrypt messages. It is an asymmetric cryptographic algorithm.'
 cyber_explanation_4 = 'Wi-Fi Protected Access (WPA), WPA2, and WPA3 encrypt information being transmitted between wireless routers and wireless devices. WPA3 is currently the strongest encryption.'
@@ -151,9 +152,9 @@ mechENG_explanations_4 = 'The eutectic invariant reaction, in general, can be re
 mechENG_explanations_5 = 'The pudding furnace creates wrought iron (nearly pure iron) from the pig iron. The wrought iron is tougher malleable'
 mechENG_all_explanations = [mechENG_explanations_1,mechENG_explanations_2,mechENG_explanations_3,mechENG_explanations_4,mechENG_explanations_5]
 
-ai_questions = ['The "Father of Artificial Intelligence" is?', 'Blind search can be used for which of the following \
-situations?','In how many category processes is Artificial Intelligence classified in?', 'Which of the following\
-is the common language for Artificial Intelligence?', 'The name of the Artificial Intelligence system developed by Daniel Bobrow was?']
+ai_questions = ['Who is the "Father of Artificial Intelligence"?', 'On which of the following situations can Blind search can be used?',\
+                'In how many category processes is Artificial Intelligence classified?', 'Which of the following\
+is a common language for Artificial Intelligence?', 'What is the name of the Artificial Intelligence system that was developed by Daniel Bobrow?']
 ai_answerOptions_1 = ['Alan Turning','Charles Babbage','John McCarthy','None of the above']
 ai_answerOptions_2 = ['Real - Life Simulation','Small Search Space','Advance Game Theory','None of these']
 ai_answerOptions_3 = ['Depends on the input nature','5','2','3']
@@ -177,7 +178,7 @@ ai_explanation_3 = 'AI is classified into three categories processes: Sensing, R
 ai_explanation_4 = "While programming can be done in any language, in today's world Python\
 has become the go-to language for AI and ML-related tasks due to its vast and diverse library functionalities."
 ai_explanation_5 = 'The name of the Artificial Intelligence system developed by Daniel Bobrow was\
-STUDENT developed in the Lisp Language in 1964.'
+STUDENT, developed in the Lisp Language in 1964.'
 ai_all_explanations = [ai_explanation_1,ai_explanation_2,ai_explanation_3,ai_explanation_4,ai_explanation_5]
 '''
 
