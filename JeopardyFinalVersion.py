@@ -6,7 +6,7 @@ Created on Mar 25, 2023
 print('Welcome to Educational Jeopardy! You can select questions from 5 different categories!\nWrite \
 EN for the Environmental Questions, CS for the Computer Science Questions, CY for the Cybersecurity Questions\n\
 ME for the Mechanical Engineer Questions, and AI for the Artificial Intelligence Questions\n')
-print('There are 5 questions in each category worth 100,200,300,400 and 500 points')
+print('There are 5 questions in each category worth 100, 200, 300, 400 and 500 points')
 
 '''
 This are our global variables.
