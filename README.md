@@ -1,6 +1,6 @@
 
 
-The webpage is called = carJet.tech
+The domain is: www.carjet.tech
 
 The Domain was chosen because of two things. Car and Jet are fast vehicles that are always trying to move forward. We want Education to
 also move fast and forward, into the right direction, since the Pandemic has slow down educational progress around the World.
