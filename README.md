@@ -38,7 +38,7 @@ env_questions = ['Name the drug associated with the plant source tea or coffee.'
 
       env_ansExplanations_5 = ['The traditional medicines are inexpensive and easily available.']
 
-cs_questions = ['What is the decimal number for 1100?', 'What is the decimal number for 1101 1111?','The name of the programming language that is named after the world’s first programmer is?', 'What is the binary number for 41423?', 'What is the hex number for 1110 0001 1100 0101?']
+cs_questions = ['What is the decimal number for 1100?', 'What is the decimal number for 1101 1111?','The name of the programming language that is named after the world’s first programmer is?', 'The analytical engine was designed by who?', 'What is the hex number for 1110 0001 1100 0101?']
 
   cs_answerOptions_1 = ['3','18','12','8']
 
@@ -46,7 +46,7 @@ cs_questions = ['What is the decimal number for 1100?', 'What is the decimal num
 
   cs_answerOptions_3 = ['Ada','Swift','Python','Java']
 
-  cs_answerOptions_4 = ['0101 0100 0111 1001','1010 0001 1100 1111','0001 0010 0100 0011','1000 1100 1001 1110']
+  cs_answerOptions_4 = ['Ada Lovelace','Charles Babbage','Tim Berners-Lee','Larry Page']
 
   cs_answerOptions_5 = ['E9C7','E1C7','E1D6','E1C5']
 
@@ -56,7 +56,7 @@ cs_questions = ['What is the decimal number for 1100?', 'What is the decimal num
 
     cs_answer_3 = ['Ada'] 
 
-    cs_answer_4 = ['1010 0001 1100 1111']  
+    cs_answer_4 = ['Charles Babbage']  
 
     cs_answer_5 = ['E1C5'] 
     
@@ -66,6 +66,7 @@ cs_questions = ['What is the decimal number for 1100?', 'What is the decimal num
     
     cs_explanations_3 = ['Ada Lovelace was the world’s first computer programmer.']
     
+    cs_explanations_4 = ['The analytical engine (computer) was first invented by Charles Babbage in the early 1800s.']
     
 
 cyber_questions = ['What are two types of network layer firewalls?', 'Which of the following attacks requires a carrier file to self-replicate?','Which of the following uses asymmetric key encryption?', 'Which of the following offers the strongest wireless signal encryption', 'Which of the following descrives asymmetric key encryption?']
