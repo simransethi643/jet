@@ -66,7 +66,9 @@ cs_questions = ['What is the decimal number for 1100?', 'What is the decimal num
     
     cs_explanations_3 = ['Ada Lovelace was the world’s first computer programmer.']
     
-    cs_explanations_4 = ['The analytical engine (computer) was first invented by Charles Babbage in the early 1800s.']
+    cs_explanations_4 = ['The CPU, the central processing unit, is considered the brain of the computer because it processes and carries out information.']
+    
+    cs_explanations_5 = ['The analytical engine (computer) was first invented by Charles Babbage in the early 1800s.']
     
 
 cyber_questions = ['What are two types of network layer firewalls?', 'Which of the following attacks requires a carrier file to self-replicate?','Which of the following uses asymmetric key encryption?', 'Which of the following offers the strongest wireless signal encryption', 'Which of the following descrives asymmetric key encryption?']
