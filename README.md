@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td> </td>
-      <td align="center"><button type="button" onclick=page>100</button></td>
+      <td align ="center"><button type="button" onclick=page>100</button></td>
       <td align="center"><button type="button" onclick=page>100</button></td>
       <td align="center"><button type="button" onclick=page>100</button></td>
       <td align="center"><button type="button" onclick=page>100</button></td>
