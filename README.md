@@ -62,7 +62,7 @@ cs_questions = ['What is the decimal number for 1100?', 'What is the decimal num
     
     cs_explanations_1 = ['In order to calculate the decimal number for 1100, you need to list the power of two from right to left below each digit of the binary number. In this case, below the 0 in the one's place, you would write 2^0 which equals 1. In the tens place, write 2^1 which equals 2. In the hundreds place, write 2^2 which equals 4. In the thousands place, write 2^3 which equals 8. Multiply each power of two by the digit that it is under. In this case, 1*0 = 0, 2*0 = 0, 4*1 = 4, 8*1 = 8. Then add all the resulting values which means 0 + 0 + 4 + 8 = 12. The decimal number for 1100 equals 12.']
     
-    cs_explanations_2 = ['In order to calculate the decimal number for 1101 1111, you need to list the power of two from right to left below each digit of the binary number. In this case, below the 0 in the one's place, you would write 2^0 which equals 1. In the tens place, write 2^1 which equals 2. In the hundreds place, write 2^2 which equals 4. In the thousands place, write 2^3 which equals 8.  In the ten thousand place, write 2^4 which equals 16. In the hundred thousands place, write 2^5 which equals 32. In the one millionth place, write 2^6 which equals 64. In the ten millionth place, write 2^7 which equals 128. Multiply each power of two by the digit that it is under. In this case, 1*1 = 1, 2*1 = 2, 4*1 = 4, 8*1 = 8, 16*1 = 16, 32*0 = 0, 64*1 = 64, 128*1 = 128. Then add all the resulting values which means 1 + 2 + 4 + 8 + 16 + 0 + 64 + 128 = 223. The decimal number for 1101 1111 equals 223.']
+    cs_explanations_2 = ['In order to calculate the decimal number for 1101 1111, you need to list the power of two from right to left below each digit of the binary number. In this case, below the 0 in the one's place, you would write 2^0 which equals 1. In the tens place, write 2^1 which equals 2. In the hundreds place, write 2^2 which equals 4. In the thousands place, write 2^3 which equals 8.  In the ten thousand place, write 2^4 which equals 16. In the hundred thousands place, write 2^5 which equals 32. In the one millionth place, write 2^6 which equals 64. In the ten millionth place, write 2^7 which equals 128. Multiply each power of two by the digit that it is under. In this case, 1*1 = 1, 2*1 = 2, 4*1 = 4, 8*1 = 8, 16*1 = 16, 32*0 = 0, 64*1 = 64, 128*1 = 128. Then add all the resulting values which means 1 + 2 + 4 + 8 +16 + 0 + 64 + 128 = 223. The decimal number for 1101 1111 equals 223.']
     
     cs_explanations_3 = ['Ada Lovelace was the world’s first computer programmer.']
     
@@ -77,7 +77,7 @@ cyber_questions = ['What are two types of network layer firewalls?', 'Which of t
 
   cyber_answerOptions_2 = ['Trojan','Virus','Worm','Spam']
 
-  cyber_answerOptions_3 = ['AES','PGP','3DES','RC5']
+  cyber_answerOptions_3 = ['AES','RSA','3DES','RC5']
 
   cyber_answerOptions_4 = ['WEP','WAP','WIPS','WPA']
 
@@ -87,11 +87,21 @@ cyber_questions = ['What are two types of network layer firewalls?', 'Which of t
 
     cyber_answer_2 = ['Virus']
 
-    cyber_answer_3 = ['PGP']
+    cyber_answer_3 = ['RSA']
 
     cyber_answer_4 = ['WPA']
 
     cyber_answer_5 = ['Consists of a private signing key and a public verification key.']
+    
+      cyber_expalanations_1 = ['Depends on what they are protecting.']
+    
+      cyber_expalanations_2 = ['A virus requires a carrier file to spread across a networkl and repilicates by inserting copies into other files. A trojan is defined as an attack that doesn't self - replicate.']
+    
+      cyber_expalanations_3 = ['RSA is an algorithm used by modern computers to encrypt and decrypt messages. It is an asymmetric cryptographic algorithm.']
+    
+      cyber_expalanations_4 = ['Wi-Fi Protected Access (WPA), WPA2, and WPA3 encrypt information being transmitted between wireless routers and wireless devices. WPA3 is currently the strongest encryption.']
+    
+      cyber_expalanations_5 = ['An asymmetric key algorithm requires two keys: private and public, so no key exchange is needed for communication. Messages are encrypted with tge recipient's public key and decrypted with the recipient's private key.']
 
 mechENG_questions = ['What is the melting point of iron (in Celcius), 'Which of the following material has the carbon varying from 2.1 to 4.3%?','What is the Iron - Carbon phase diagram?', 'The invariant reaction involving a liquid phase decomposing into two different solids on cooling is known as__, 'Wrought iron is a product of__']
 
