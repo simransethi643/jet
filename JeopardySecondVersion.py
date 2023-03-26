@@ -67,7 +67,7 @@ env_all_ansExplanations = [env_ansExplanations_1,env_ansExplanations_2,env_ansEx
 
 cs_questions =  ['What is the decimal number for 1100?', 'What is the decimal number for 1101 1111?','What is the name of the programming\
 language that is named after the world’s first \
-programmer?', 'What is the brain of the computer referred to as?', 'Who designed the analytical engine?']
+programmer?', 'What is the brain of the computer referred to as?', 'Which scientist designed the analytical engine?']
 
 cs_answerOptions_1 = ['3','18','12','8']
 cs_answerOptions_2 = ['136','223','220','221']
@@ -95,8 +95,8 @@ In the ten thousand place, write 2^4 which equals 16. In the hundred thousands p
 millionth place, write 2^6 which equals 64. In the ten millionth place, write 2^7 which equals 128. Multiply each power \
 of two by the digit that it is under. In this case, 1*1 = 1, 2*1 = 2, 4*1 = 4, 8*1 = 8, 16*1 = 16, 32*0 = 0, 64*1 = 64, 128*1 = 128.\
 Then add all the resulting values which means 1 + 2 + 4 + 8 +16 + 0 + 64 + 128 = 223. The decimal number for 1101 1111 equals 223."
-cs_explanations_3 = 'Ada was named after Augusta Ada King, countess of Lovelace, who was aan assistant to the 19th-century English inventor Charles Babbage,and is sometimes called the first computer programmer.'
-cs_explanations_4 = 'ThE CPU is the brain of a computer, containing all the circuitry needed to process input, store data, and output results.'
+cs_explanations_3 = "Ada Lovelace was the world's first computer programmer."
+cs_explanations_4 = 'The CPU, the central processing unit, is considered the brain of the computer because it processes and carries out information and instructions.'
 cs_explanations_5 = 'Charles Babbage, computer pioneer, designed two class of engine, Difference Engines, and Analytical Engines.'
 cs_all_explanations = [cs_explanations_1,cs_explanations_2,cs_explanations_3,cs_explanations_4,cs_explanations_5]
 
